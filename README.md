@@ -16,6 +16,7 @@
 
 
 ## Updates
+* Feb 2026: The paper is accepted to CVPR'26!
 * Nov 2025: Paper released on arXiv. Code is coming soon.
 
 ## Overview
