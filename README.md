@@ -42,7 +42,7 @@
 
 
 ## Contact
-For any question, you can contact [Wei-Hong Li](https://weihonglee.github.io) or [Xiaoye Wang](https://adamwang0224.github.io/).
+For any question, you can contact [Xiaoye Wang](https://adamwang0224.github.io/) or [Wei-Hong Li](https://weihonglee.github.io).
 
 ## Acknowledgements
 We would like to thanks authors of [DepthSplat](https://github.com/cvg/depthsplat), [MVSplat](https://github.com/donydchen/mvsplat), [UniMatch](https://github.com/autonomousvision/unimatch), [SAK](https://github.com/innovator-zero/SAK) for their source code.
